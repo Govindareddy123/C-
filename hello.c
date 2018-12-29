@@ -7,8 +7,5 @@ int main()
 	//printf("hello_world");
 	printf ("Hi all welcome to Git lessons");
 	printf("sum is=%d",a+b);
-
-
-	printf("Bye bye....");
 	retrun 0;
 }
