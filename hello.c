@@ -3,7 +3,9 @@
 
 int main()
 {
+	int a=10,b=20;
 	//printf("hello_world");
 	printf ("Hi all welcome to Git lessons");
+	printf("sum is=%d",a+b);
 	retrun 0;
 }
